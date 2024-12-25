@@ -1,6 +1,7 @@
-({
-	zoo: {
-		rebus: 'Jaguar',
-		mystery: 'Dung beetle',
-	},
-})
+{
+	"zoo": {
+		"day": 25,
+		"rebus": "Jaguar",
+		"mystery": "Dung beetle"
+	}
+}
