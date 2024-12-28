@@ -7,9 +7,11 @@
 	"hrum": {
 		"quote": "Michel de Montaigne"
 	},
-	"onton": {		
-		"de937951-46e4-45b9-9476-e8f03097f2a9": "alphakool",
+	"onton": {
+		"claimable": {
+			"de937951-46e4-45b9-9476-e8f03097f2a9": "alphakool",
 
-		"87d44116-36d8-42e7-8894-e006fc1d0bfb": "Resistancecat"
+			"87d44116-36d8-42e7-8894-e006fc1d0bfb": "Resistancecat"
+		}
 	}
 }
