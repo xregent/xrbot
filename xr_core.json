@@ -1,17 +1,17 @@
 {
 	"zoo": {
-		"day": 28,
-		"rebus": "Lemur",
-		"mystery": "Pistol shrimp"
+		"day": 29,
+		"rebus": "Tapir",
+		"mystery": "Parrot"
 	},
 	"hrum": {
-		"quote": "Nelson Mandela"
+		"quote": "Wayne Gretzky"
 	},
 	"onton": {
 		"claimable": {
-			"de937951-46e4-45b9-9476-e8f03097f2a9": "alphakool",
+			"b338a92b-5519-4c1b-9c83-1f6c00320e1f": "Tonmapforever",
 
-			"87d44116-36d8-42e7-8894-e006fc1d0bfb": "Resistancecat"
+			"913b6044-8959-4ea1-9bfc-97697cb22aec": "Yescoin"
 		}
 	}
 }
