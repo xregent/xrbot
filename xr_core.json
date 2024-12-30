@@ -1,17 +1,18 @@
 {
 	"zoo": {
-		"day": 29,
-		"rebus": "Tapir",
-		"mystery": "Parrot"
+		"day": 30,
+		"rebus": "Crocodile",
+		"mystery": "Sea Otter"
 	},
 	"hrum": {
-		"quote": "Wayne Gretzky"
+		"quote": "Ralph Maston"
 	},
 	"onton": {
 		"claimable": {
 			"b338a92b-5519-4c1b-9c83-1f6c00320e1f": "Tonmapforever",
+			"57deeaf6-74e3-4818-9a3a-81efccc8d14b": "misochkasladkaya",
 
-			"913b6044-8959-4ea1-9bfc-97697cb22aec": "Yescoin"
+			"0bf5ca0d-92c5-417e-b815-46f286aa4322": "utya"
 		}
 	}
 }
