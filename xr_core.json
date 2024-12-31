@@ -2,10 +2,10 @@
 	"zoo": {
 		"day": 31,
 		"rebus": "Okapi",
-		"mystery": ""
+		"mystery": "Porcupine"
 	},
 	"hrum": {
-		"quote": "Ralph Marston"
+		"quote": "Voltaire"
 	},
 	"onton": {
 		"claimable": {
@@ -14,5 +14,5 @@
 		}
 	},
 
-	"ton_society": "3112"
+	"ton_society": "0101"
 }
