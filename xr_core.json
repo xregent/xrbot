@@ -9,10 +9,11 @@
 	},
 	"onton": {
 		"claimable": {
+			"c0818d3f-8dc6-4daf-95d4-27214beb02b1": "happynewyear",
 
 			"52a9c6f7-14b0-4847-9d88-249c5e92d13a": "dogs"
 		}
 	},
 
-	"ton_society": "0101"
+	"ton_society": "v1"
 }
