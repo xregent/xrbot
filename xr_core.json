@@ -1,11 +1,11 @@
 {
 	"zoo": {
-		"day": 1,
-		"rebus": "Iguana",
-		"mystery": "Wolverine"
+		"day": 2,
+		"rebus": "Tamarin",
+		"mystery": "Toucan"
 	},
 	"hrum": {
-		"quote": "Oscar Wilde"
+		"quote": "Buddha"
 	},
 	"donot": {
 		"combo": [18, 8, 10, 9]
@@ -15,10 +15,9 @@
 			"c0818d3f-8dc6-4daf-95d4-27214beb02b1": "happynewyear",
 			"d98c983f-d1ea-4d26-bc21-27794158c79f": "loh25",
 
-			"52a9c6f7-14b0-4847-9d88-249c5e92d13a": "dogs"
+			"2e298c65-21ea-4da2-a782-db5e01a43e08": "wonton"
 		}
 	},
 
-	"ton_society": "v3",
-	"tg_resistance": "v2"
+	"ton_society": "v3"
 }
