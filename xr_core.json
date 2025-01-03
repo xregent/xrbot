@@ -1,11 +1,11 @@
 {
 	"zoo": {
-		"day": 2,
-		"rebus": "Tamarin",
-		"mystery": "Toucan"
+		"day": 3,
+		"rebus": "Dugong",
+		"mystery": "Crow"
 	},
 	"hrum": {
-		"quote": "Buddha"
+		"quote": "Oscar Wilde"
 	},
 	"donot": {
 		"combo": [19, 18, 16, 15]
