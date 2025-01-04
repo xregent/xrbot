@@ -1,14 +1,14 @@
 {
 	"zoo": {
-		"day": 3,
-		"rebus": "Dugong",
-		"mystery": "Crow"
+		"day": 4,
+		"rebus": "Anaconda",
+		"mystery": "Cockroach"
 	},
 	"hrum": {
-		"quote": "Oscar Wilde"
+		"quote": "Ralph Waldo Emerson"
 	},
 	"donot": {
-		"combo": [19, 18, 16, 15]
+		"combo": [8, 4, 12, 1]
 	},
 	"onton": {
 		"claimable": {
@@ -18,7 +18,7 @@
 			"60aa3823-8e8f-4313-ba3b-15aeb50562ed": "canaton",
 			"478f799c-3662-44e2-b5bc-066af3a731cf": "cana-lord-drey",
 
-			"134a2f22-0319-40c6-a226-29db6f9036df": "Sadmeow"
+			"0cf10392-0f6a-4089-b63c-93c6a5bd1eb0": "yescoin"
 		}
 	},
 
