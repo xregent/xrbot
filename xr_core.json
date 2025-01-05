@@ -1,14 +1,14 @@
 {
 	"zoo": {
-		"day": 4,
+		"day": 5,
 		"rebus": "Anaconda",
-		"mystery": "Cockroach"
+		"mystery": "Ibex"
 	},
 	"hrum": {
-		"quote": "Ralph Waldo Emerson"
+		"quote": "Roosevelt"
 	},
 	"donot": {
-		"combo": [8, 4, 12, 1]
+		"combo": [19, 11, 6, 7]
 	},
 	"onton": {
 		"claimable": {
@@ -19,10 +19,12 @@
 			"478f799c-3662-44e2-b5bc-066af3a731cf": "cana-lord-drey",
 			"947eb45d-dcb5-43c9-8a72-d96896be68c3": "MEMEPADS-ON-TON",
 			"a187de03-3c9c-4842-a605-be7d6e46236f": "2025",
+			"a3bea83e-f7c2-4ab8-9d28-23a8ca669d36": "2025Alpha",
 
 			"c2f51b25-b561-44da-b20b-fa2eb09952d0": "notcoin"
 		}
 	},
 
-	"ton_society": "v3"
+	"ton_society": "v3",
+	"hot": "v1"
 }
