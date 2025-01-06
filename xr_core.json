@@ -1,14 +1,13 @@
 {
 	"zoo": {
-		"day": 5,
-		"rebus": "Anaconda",
-		"mystery": "Ibex"
+		"rebus": "Capybara",
+		"mystery": "Anglerfish"
 	},
 	"hrum": {
-		"quote": "Roosevelt"
+		"quote": "Pablo Picasso"
 	},
 	"donot": {
-		"combo": [19, 11, 6, 7]
+		"combo": [10, 17, 20, 9]
 	},
 	"onton": {
 		"claimable": {
@@ -21,7 +20,7 @@
 			"a187de03-3c9c-4842-a605-be7d6e46236f": "2025",
 			"a3bea83e-f7c2-4ab8-9d28-23a8ca669d36": "2025Alpha",
 
-			"c2f51b25-b561-44da-b20b-fa2eb09952d0": "notcoin"
+			"b377d8c8-d787-4224-8ccc-2ae1802dba89": "dedust"
 		}
 	},
 
