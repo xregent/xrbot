@@ -1,13 +1,13 @@
 {
 	"zoo": {
-		"rebus": "Capybara",
-		"mystery": "Anglerfish"
+		"rebus": "Cassowary",
+		"mystery": "Lizard"
 	},
 	"hrum": {
-		"quote": "Pablo Picasso"
+		"quote": "Benjamin Franklin"
 	},
 	"donot": {
-		"combo": [10, 17, 20, 9]
+		"combo": [20, 2, 13, 14]
 	},
 	"onton": {
 		"claimable": {
@@ -25,6 +25,7 @@
 	},
 
 	"ton_society": "v4",
-	"frog_farm": "v2",
+	"not_pixel": "v1",
+	"dogshouse": "v1",
 	"hot": "v1"
 }
