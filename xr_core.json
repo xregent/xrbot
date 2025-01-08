@@ -7,20 +7,12 @@
 		"quote": "Benjamin Franklin"
 	},
 	"donot": {
-		"combo": [20, 2, 13, 14]
+		"combo": [10, 8, 7, 19]
 	},
 	"onton": {
 		"claimable": {
-			"c0818d3f-8dc6-4daf-95d4-27214beb02b1": "happynewyear",
-			"d98c983f-d1ea-4d26-bc21-27794158c79f": "loh25",
-			"9c972cbe-a3ca-46d7-880f-561c4430df23": "branding",
-			"60aa3823-8e8f-4313-ba3b-15aeb50562ed": "canaton",
-			"478f799c-3662-44e2-b5bc-066af3a731cf": "cana-lord-drey",
-			"947eb45d-dcb5-43c9-8a72-d96896be68c3": "MEMEPADS-ON-TON",
-			"a187de03-3c9c-4842-a605-be7d6e46236f": "2025",
-			"a3bea83e-f7c2-4ab8-9d28-23a8ca669d36": "2025Alpha",
 
-			"a3fa4525-780e-463d-b70b-4f6be4f6f203": "watbird"
+			"e0cb2939-e3ff-446a-b0c9-9fb1a74786ff": "poveldurev"
 		}
 	},
 
