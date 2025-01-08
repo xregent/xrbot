@@ -1,22 +1,25 @@
 {
 	"zoo": {
 		"rebus": "Manatee",
-		"mystery": ""
+		"mystery": "Bowerbird"
 	},
 	"hrum": {
-		"quote": "Benjamin Franklin"
+		"quote": "Epictetus"
 	},
 	"donot": {
 		"combo": [10, 8, 7, 19]
 	},
 	"onton": {
 		"claimable": {
+			"82d1b567-408a-4669-b164-b869a73da988": "3founders+",
+			"4079ab2f-cc2a-474d-9640-bf2450b33fd6": "bitprofile0801",
+			"dfd7a294-78fb-4cc3-ba0c-d238f3b24658": "SUWIONSOL",
 
 			"e0cb2939-e3ff-446a-b0c9-9fb1a74786ff": "poveldurev"
 		}
 	},
 
-	"ton_society": "v4",
+	"ton_society": "v5",
 	"not_pixel": "v1",
 	"dogshouse": "v1",
 	"hot": "v1"
