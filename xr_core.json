@@ -1,26 +1,28 @@
 {
 	"zoo": {
-		"rebus": "Manatee",
-		"mystery": "Bowerbird"
+		"rebus": "Jackal",
+		"mystery": "Basilisk Lizard"
 	},
 	"hrum": {
-		"quote": "Epictetus"
+		"quote": "Lao Tzu"
 	},
 	"donot": {
-		"combo": [10, 8, 7, 19]
+		"combo": [1, 15, 2, 5]
 	},
 	"onton": {
 		"claimable": {
 			"82d1b567-408a-4669-b164-b869a73da988": "3founders+",
 			"4079ab2f-cc2a-474d-9640-bf2450b33fd6": "bitprofile0801",
 			"dfd7a294-78fb-4cc3-ba0c-d238f3b24658": "SUWIONSOL",
+			"ffb35650-86f4-431e-8040-6be90207ce61": "0109",
+			"28290f8f-8e3e-476a-9e46-dcbf6b43d9ff": "superwonton",
 
-			"e0cb2939-e3ff-446a-b0c9-9fb1a74786ff": "poveldurev"
+			"a183b2da-1b55-4b2a-9af4-104c10da85d7": "theducktony"
 		}
 	},
 
-	"ton_society": "v5",
+	"ton_society": "v7",
 	"not_pixel": "v1",
-	"dogshouse": "v1",
+	"paws": "v1",
 	"hot": "v1"
 }
