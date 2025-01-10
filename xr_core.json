@@ -1,13 +1,13 @@
 {
 	"zoo": {
-		"rebus": "Jackal",
-		"mystery": "Basilisk Lizard"
+		"rebus": "Scorpion",
+		"mystery": "Starfish"
 	},
 	"hrum": {
-		"quote": "Lao Tzu"
+		"quote": "Steve Jobs"
 	},
 	"donot": {
-		"combo": [1, 15, 2, 5]
+		"combo": [12, 20, 16, 7]
 	},
 	"onton": {
 		"claimable": {
@@ -16,8 +16,9 @@
 			"dfd7a294-78fb-4cc3-ba0c-d238f3b24658": "SUWIONSOL",
 			"ffb35650-86f4-431e-8040-6be90207ce61": "0109",
 			"28290f8f-8e3e-476a-9e46-dcbf6b43d9ff": "superwonton",
+			"6353034f-f10b-448f-b8f2-864156de588d": "saudisgo",
 
-			"a183b2da-1b55-4b2a-9af4-104c10da85d7": "theducktony"
+			"49b6078f-5edb-4329-bee0-8759bdaefd85": "kissedfrog"
 		}
 	},
 
