@@ -1,13 +1,13 @@
 {
 	"zoo": {
-		"rebus": "Scorpion",
-		"mystery": "Starfish"
+		"rebus": "Vulture",
+		"mystery": "Hyena"
 	},
 	"hrum": {
-		"quote": "Steve Jobs"
+		"quote": "Albert Einstein"
 	},
 	"donot": {
-		"combo": [12, 20, 16, 7]
+		"combo": [2, 6, 10, 13]
 	},
 	"onton": {
 		"claimable": {
@@ -18,7 +18,7 @@
 			"28290f8f-8e3e-476a-9e46-dcbf6b43d9ff": "superwonton",
 			"6353034f-f10b-448f-b8f2-864156de588d": "saudisgo",
 
-			"49b6078f-5edb-4329-bee0-8759bdaefd85": "kissedfrog"
+			"74355b05-8e2d-4a17-92d3-94fa38e82d8f": "sadmeow"
 		}
 	},
 
