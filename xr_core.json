@@ -1,13 +1,13 @@
 {
 	"zoo": {
-		"rebus": "Vulture",
-		"mystery": "Hyena"
+		"rebus": "Camel",
+		"mystery": "Goat"
 	},
 	"hrum": {
-		"quote": "Albert Einstein"
+		"quote": "Winston Churchill"
 	},
 	"donot": {
-		"combo": [2, 6, 10, 13]
+		"combo": [13, 12, 4, 17]
 	},
 	"onton": {
 		"claimable": {
