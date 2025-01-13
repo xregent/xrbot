@@ -1,10 +1,10 @@
 {
 	"zoo": {
-		"rebus": "Camel",
-		"mystery": "Goat"
+		"rebus": "Hyena",
+		"mystery": "Ostrich"
 	},
 	"hrum": {
-		"quote": "Winston Churchill"
+		"quote": "Ralph Waldo Emerson"
 	},
 	"donot": {
 		"combo": [3, 18, 17, 20]
@@ -20,6 +20,8 @@
 			"9d446e5d-1bf7-448b-a796-fa4e712db679": "ekiti25",
 			"795da4e6-e257-410c-b78c-ddb38eeff8a8": "tonmyanmar",
 			"74b766b4-80b7-47cd-9d13-6d8debb60ca0": "vegacuba25",
+			"f8a62844-f09b-4b17-b593-c949260be1e4": "arthurGonzalez",
+			"fbd395dd-aa69-4226-a2c3-435b3703fd4b": "Realtalkshow",
 
 			"f819cbd7-f12f-41c3-a0a2-cb26056e036f": "Resistancedog"
 		}
