@@ -1,13 +1,13 @@
 {
 	"zoo": {
-		"rebus": "Hyena",
-		"mystery": "Ostrich"
+		"rebus": "Cheetah",
+		"mystery": "Flamingo"
 	},
 	"hrum": {
-		"quote": "Ralph Waldo Emerson"
+		"quote": "Nelson Mandela"
 	},
 	"donot": {
-		"combo": [3, 18, 17, 20]
+		"combo": [13, 4, 11, 5]
 	},
 	"onton": {
 		"claimable": {
@@ -22,8 +22,12 @@
 			"74b766b4-80b7-47cd-9d13-6d8debb60ca0": "vegacuba25",
 			"f8a62844-f09b-4b17-b593-c949260be1e4": "arthurGonzalez",
 			"fbd395dd-aa69-4226-a2c3-435b3703fd4b": "Realtalkshow",
+			"1b693881-9ed0-4048-af37-d68ddff1fc29": "Buy$TON",
+			"4a8269d6-f628-4fad-9d9e-134696895457": "vibe2025",
+			"7b30d3e7-f501-45cf-a428-fe04b797afed": "aerientier",
+			"840e50c3-6d52-4b2e-a006-a4fc9447cd80": "TonBelarus+BeWhale",
 
-			"f819cbd7-f12f-41c3-a0a2-cb26056e036f": "Resistancedog"
+			"0b3367a6-cde9-478c-866a-209d20ca3586": "tapswap"
 		}
 	},
 
