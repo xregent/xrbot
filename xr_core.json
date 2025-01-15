@@ -33,13 +33,15 @@
 			"6df431f4-cef5-417f-96c6-228b5dfd0156": "globula.space",
 			"11765ee2-d2e0-4bfe-9bd1-9330a54adfd1": "Reblium#1",
 			"1aa49c1e-15d1-4601-9512-353f56f40281": "ilove$ton",
+			"1f998c77-f1ee-48ed-abc3-f0b44cf3ae80": "Player001",
+			"1f998c77-f1ee-48ed-abc3-f0b44cf3ae80": "reblium#2",
 
-			"0b3367a6-cde9-478c-866a-209d20ca3586": "tapswap"
+			"ed66566f-c8af-4473-be66-b09d71d7a550": "paveldurov"
 		}
 	},
 
 	"ton_society": "v7",
 	"not_pixel": "v1",
-	"paws": "v1",
+	"paws": "v2",
 	"hot": "v1"
 }
