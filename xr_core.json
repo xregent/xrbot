@@ -1,13 +1,13 @@
 {
 	"zoo": {
-		"rebus": "Cheetah",
-		"mystery": "Flamingo"
+		"rebus": "Badger",
+		"mystery": "Mimic Octopus"
 	},
 	"hrum": {
-		"quote": "Nelson Mandela"
+		"quote": "Dalai Lama"
 	},
 	"donot": {
-		"combo": [13, 4, 11, 5]
+		"combo": [3, 10, 7, 11]
 	},
 	"onton": {
 		"claimable": {
@@ -32,6 +32,7 @@
 			"31debe11-89fd-4bfa-8821-9c84db797b1c": "vegacuba25",
 			"6df431f4-cef5-417f-96c6-228b5dfd0156": "globula.space",
 			"11765ee2-d2e0-4bfe-9bd1-9330a54adfd1": "Reblium#1",
+			"1aa49c1e-15d1-4601-9512-353f56f40281": "ilove$ton",
 
 			"0b3367a6-cde9-478c-866a-209d20ca3586": "tapswap"
 		}
