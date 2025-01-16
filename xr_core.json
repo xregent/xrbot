@@ -34,14 +34,17 @@
 			"11765ee2-d2e0-4bfe-9bd1-9330a54adfd1": "Reblium#1",
 			"1aa49c1e-15d1-4601-9512-353f56f40281": "ilove$ton",
 			"1f998c77-f1ee-48ed-abc3-f0b44cf3ae80": "Player001",
-			"1f998c77-f1ee-48ed-abc3-f0b44cf3ae80": "reblium#2",
+			"ed66566f-c8af-4473-be66-b09d71d7a550": "reblium#2",
+			"60df9f3e-6a92-404d-bae6-257d58186380": "gmtsm",
+			"1f0067d0-b0a2-4efd-a32a-6c8226ddc1c2": "reblcrypto.io",
 
-			"ed66566f-c8af-4473-be66-b09d71d7a550": "paveldurov"
+			"41c9e19d-639c-40c5-9e3f-a87c5652feb0": "durovscap"
 		}
 	},
 
 	"ton_society": "v7",
 	"not_pixel": "v1",
-	"paws": "v2",
+	"paws": "v3",
+	"spr_coin": "v1",
 	"hot": "v1"
 }
