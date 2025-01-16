@@ -7,7 +7,7 @@
 		"quote": "Dalai Lama"
 	},
 	"donot": {
-		"combo": [3, 10, 7, 11]
+		"combo": [15, 16, 20, 12]
 	},
 	"onton": {
 		"claimable": {
@@ -37,6 +37,8 @@
 			"ed66566f-c8af-4473-be66-b09d71d7a550": "reblium#2",
 			"60df9f3e-6a92-404d-bae6-257d58186380": "gmtsm",
 			"1f0067d0-b0a2-4efd-a32a-6c8226ddc1c2": "reblcrypto.io",
+			"4e6fa0e3-9471-43fe-9ab0-32785bf65f3e": "0116",
+			"080bd2ff-84f6-4945-b6e8-382790b28a01": "0116",
 
 			"41c9e19d-639c-40c5-9e3f-a87c5652feb0": "durovscap"
 		}
@@ -45,6 +47,6 @@
 	"ton_society": "v7",
 	"not_pixel": "v1",
 	"paws": "v3",
-	"spr_coin": "v1",
+	"spr_coin": "v2",
 	"hot": "v1"
 }
