@@ -1,13 +1,13 @@
 {
 	"zoo": {
-		"rebus": "Otter",
-		"mystery": "Wood Frog"
+		"rebus": "Penguin",
+		"mystery": "Porpoise"
 	},
 	"hrum": {
-		"quote": "Steve Jobs"
+		"quote": "Zig Ziglar"
 	},
 	"donot": {
-		"combo": [15, 16, 20, 12]
+		"combo": [4, 1, 13, 18]
 	},
 	"onton": {
 		"claimable": {
