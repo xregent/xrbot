@@ -13,14 +13,15 @@
 		"claimable": {
 			"f29a0f2e-5fa1-4a38-abb5-d45b82bdb44a": "tonfamily",
 			"8a268b33-b0af-43c7-bd8d-572b429320f0": "2025",
+			"4effe141-44bd-4704-9161-f54ecc670e2c": "justbeseda",
 
 			"9b067033-fdc1-4119-98dc-f8774d4fca07": "plushpepe"
 		}
 	},
 
 	"ton_society": "v7",
-	"not_pixel": "v3",
-	"paws": "v5",
+	"not_pixel": "v4",
+	"paws": "v6",
 	"spr_coin": "v3",
 	"hot": "v1"
 }
