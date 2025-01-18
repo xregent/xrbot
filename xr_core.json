@@ -1,10 +1,10 @@
 {
 	"zoo": {
-		"rebus": "Penguin",
-		"mystery": "Porpoise"
+		"rebus": "Heron",
+		"mystery": "Tasmanian Devil"
 	},
 	"hrum": {
-		"quote": "Zig Ziglar"
+		"quote": "Thomas Edison"
 	},
 	"donot": {
 		"combo": [15, 7, 8, 2]
@@ -19,8 +19,8 @@
 	},
 
 	"ton_society": "v7",
-	"not_pixel": "v2",
-	"paws": "v4",
-	"spr_coin": "v2",
+	"not_pixel": "v3",
+	"paws": "v5",
+	"spr_coin": "v3",
 	"hot": "v1"
 }
