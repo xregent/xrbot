@@ -4,7 +4,7 @@
 		"mystery": "Tasmanian Devil"
 	},
 	"hrum": {
-		"quote": "Thomas Edison"
+		"quote": "John Lennon"
 	},
 	"donot": {
 		"combo": [6, 14, 1, 8]
@@ -23,7 +23,7 @@
 	},
 
 	"ton_society": "v7",
-	"not_pixel": "v5",
+	"not_pixel": "v6",
 	"paws": "v6",
 	"spr_coin": "v4",
 	"hot": "v1"
