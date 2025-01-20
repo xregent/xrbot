@@ -7,7 +7,7 @@
 		"quote": "John Lennon"
 	},
 	"donot": {
-		"combo": [6, 14, 1, 8]
+		"combo": [16, 19, 14, 9]
 	},
 	"onton": {
 		"claimable": {
@@ -17,8 +17,9 @@
 			"4f90a480-04a7-42cc-9443-64a6ac992dc1": "tonfam",
 			"b5630db6-a285-42d6-9a05-d55f31e4a684": "yakbull",
 			"11bb8cb1-d76e-4530-876c-d044ef3294a0": "welcomemokl",
+			"37a335d5-1e27-428c-9b4d-5b5facc6dcd2": "tsmyanmar",
 
-			"9b067033-fdc1-4119-98dc-f8774d4fca07": "Evaaprotocol"
+			"d2785d86-6eb5-4697-bf22-f4fb7925720d": "poveldurev"
 		}
 	},
 
