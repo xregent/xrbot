@@ -1,10 +1,10 @@
 {
 	"zoo": {
 		"rebus": "Gibbon",
-		"mystery": "Bee"
+		"mystery": "Arapaima"
 	},
 	"hrum": {
-		"quote": "John Lennon"
+		"quote": "Robert Louis Stevenson"
 	},
 	"donot": {
 		"combo": [16, 19, 14, 9]
@@ -18,8 +18,10 @@
 			"b5630db6-a285-42d6-9a05-d55f31e4a684": "yakbull",
 			"11bb8cb1-d76e-4530-876c-d044ef3294a0": "welcomemokl",
 			"37a335d5-1e27-428c-9b4d-5b5facc6dcd2": "tsmyanmar",
+			"d12473c3-770c-4113-b7e3-b843c3405817": "tsmog",
+			"39363e76-58e4-4183-9701-d833f28cfd85": "snake",
 
-			"d2785d86-6eb5-4697-bf22-f4fb7925720d": "poveldurev"
+			"21f0b10a-dc93-479c-bf99-0cb757f03425": "tonfish"
 		}
 	},
 
