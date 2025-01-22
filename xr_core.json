@@ -1,10 +1,10 @@
 {
 	"zoo": {
-		"rebus": "Koala",
-		"mystery": "Honeybee"
+		"rebus": "Bison",
+		"mystery": "Harp Seal"
 	},
 	"hrum": {
-		"quote": "Henry David Thoreau"
+		"quote": "Norman Vaughan"
 	},
 	"donot": {
 		"combo": [6, 4, 10, 15]
@@ -24,6 +24,9 @@
 			"74e71a42-2eb9-4ffd-bab1-0633ab5ba46e": "tonbelarus+yupland",
 			"f38df0b7-72a7-47c2-aa48-76c02a52b1f0": "tonaiagent",
 			"90cf3659-45e0-44bb-b1f2-6bc019bcc793": "ton&tg",
+			"93c970f8-41f9-4b80-9562-339f393c242c": "tonxhtf",
+			"797b4a99-bdb5-46a1-80a6-1c98148ab0d2": "bitjam_2000",
+			"8667a9ee-38c8-402e-8571-6777a69cd9e7": "mnga",
 
 			"d2906f7a-f35d-4635-9615-db71d2541c13": "dogs"
 		}
