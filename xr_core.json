@@ -4,10 +4,10 @@
 		"mystery": "Harp Seal"
 	},
 	"hrum": {
-		"quote": "Norman Vaughan"
+		"quote": "Eleanor Roosevelt"
 	},
 	"donot": {
-		"combo": [6, 4, 10, 15]
+		"combo": [2, 7, 16, 18]
 	},
 	"onton": {
 		"claimable": {
@@ -27,8 +27,13 @@
 			"93c970f8-41f9-4b80-9562-339f393c242c": "tonxhtf",
 			"797b4a99-bdb5-46a1-80a6-1c98148ab0d2": "bitjam_2000",
 			"8667a9ee-38c8-402e-8571-6777a69cd9e7": "mnga",
+			"4130b618-fcbe-42c1-9e1c-d7c5cbeab6a3": "0123",
+			"87df5bd9-c5b0-4d09-9610-046664f0aef6": "best",
+			"ba84b848-db61-497a-a6b0-55028efbf9e5": "shmoken",
+			"8e6d5694-e573-48fc-aa5c-ee974c629745": "tp4growth",
+			"fbff524a-b023-443e-8d4b-ca9f7d8b9e38": "MNFGA",
 
-			"d2906f7a-f35d-4635-9615-db71d2541c13": "dogs"
+			"a2e8d6ff-f21e-487c-bea4-b3aed97ca8bc": "paperplane"
 		}
 	},
 
