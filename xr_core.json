@@ -7,7 +7,7 @@
 		"quote": "Eleanor Roosevelt"
 	},
 	"donot": {
-		"combo": [2, 7, 16, 18]
+		"combo": [18, 3, 11, 8]
 	},
 	"onton": {
 		"claimable": {
@@ -35,8 +35,9 @@
 			"66d463c1-2e53-43b0-901b-7a34fd07e9f7": "beeton",
 			"12195b0d-1e35-44e6-af75-d1208f6fe056": "Craken-Sbt",
 			"67295108-065b-454d-a25c-0095f178cb49": "Craken",
+			"8c5819a7-bcee-4b6b-b1e8-610f20937bdf": "nextgenbots",
 
-			"a2e8d6ff-f21e-487c-bea4-b3aed97ca8bc": "paperplane"
+			"6d565fa0-89e2-4d64-8717-e029aebc9e40": "sadmeow"
 		}
 	},
 
