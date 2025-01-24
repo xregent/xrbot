@@ -1,7 +1,7 @@
 {
 	"zoo": {
-		"rebus": "Bison",
-		"mystery": "Harp Seal"
+		"rebus": "Panther",
+		"mystery": "Zebra"
 	},
 	"hrum": {
 		"quote": "Eleanor Roosevelt"
@@ -32,6 +32,9 @@
 			"ba84b848-db61-497a-a6b0-55028efbf9e5": "shmoken",
 			"8e6d5694-e573-48fc-aa5c-ee974c629745": "tp4growth",
 			"fbff524a-b023-443e-8d4b-ca9f7d8b9e38": "MNFGA",
+			"66d463c1-2e53-43b0-901b-7a34fd07e9f7": "beeton",
+			"12195b0d-1e35-44e6-af75-d1208f6fe056": "Craken-Sbt",
+			"67295108-065b-454d-a25c-0095f178cb49": "Craken",
 
 			"a2e8d6ff-f21e-487c-bea4-b3aed97ca8bc": "paperplane"
 		}
@@ -39,7 +42,7 @@
 
 	"ton_society": "v7",
 	"not_pixel": "v6",
-	"paws": "v6",
+	"paws": "v7",
 	"spr_coin": "v4",
 	"hot": "v1"
 }
