@@ -4,7 +4,7 @@
 		"mystery": "Jerboa"
 	},
 	"hrum": {
-		"quote": "Wayne Gretzky"
+		"quote": "Chris Grosser"
 	},
 	"donot": {
 		"combo": [8, 9, 5, 13]
@@ -40,6 +40,7 @@
 			"95f4cf78-2f54-4a6e-9427-40570469d47e": "tradingtalk",
 			"7e9094f2-f60d-4177-a476-a4704be3b065": "beeton",
 			"fad8b11c-6a0e-4a71-a2b4-f5406584f109": "feelmusicwithourbots",
+			"ae488a5d-9968-47c4-a168-8e316ed578f3": "staytrue",
 
 			"b86c41eb-01d3-4a5b-8901-5d408b7f079f": "vintagecigar"
 		}
@@ -49,5 +50,6 @@
 	"not_pixel": "v6",
 	"paws": "v7",
 	"spr_coin": "v4",
-	"hot": "v1"
+	"duck_chain": "v1",
+	"hot": "v1",
 }
