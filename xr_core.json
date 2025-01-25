@@ -1,13 +1,13 @@
 {
 	"zoo": {
 		"rebus": "Leopard",
-		"mystery": "Gibbon"
+		"mystery": "Jerboa"
 	},
 	"hrum": {
 		"quote": "Wayne Gretzky"
 	},
 	"donot": {
-		"combo": [18, 3, 11, 8]
+		"combo": [8, 9, 5, 13]
 	},
 	"onton": {
 		"claimable": {
@@ -39,8 +39,9 @@
 			"c2e86562-ab43-4c34-867c-301b20f45aea": "tgnft",
 			"95f4cf78-2f54-4a6e-9427-40570469d47e": "tradingtalk",
 			"7e9094f2-f60d-4177-a476-a4704be3b065": "beeton",
+			"fad8b11c-6a0e-4a71-a2b4-f5406584f109": "feelmusicwithourbots",
 
-			"6d565fa0-89e2-4d64-8717-e029aebc9e40": "sadmeow"
+			"b86c41eb-01d3-4a5b-8901-5d408b7f079f": "vintagecigar"
 		}
 	},
 
