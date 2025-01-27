@@ -1,13 +1,13 @@
 {
 	"zoo": {
-		"rebus": "Leopard",
-		"mystery": "Jerboa"
+		"rebus": "Meerkat",
+		"mystery": "Skunk"
 	},
 	"hrum": {
 		"quote": "Ralph Waldo Emerson"
 	},
 	"donot": {
-		"combo": [19, 14, 20, 15]
+		"combo": [8, 20, 12, 19]
 	},
 	"onton": {
 		"claimable": {
@@ -19,6 +19,10 @@
 			"cbd9bc12-3fe3-478e-8bc4-a171a12b9116": "happysunday",
 			"363a9249-db75-4185-a495-9a4ecbd20357": "tontelegram",
 			"049c6e76-9ce9-4548-b1b5-fdbe20b933ac": "svidetelinot",
+			"9bad0614-8d86-4385-8e91-6196fb375d62": "simple coin",
+			"5986f59a-f4f2-48cf-ab7a-467216f31c15": "dogs",
+			"d0490273-1e48-44b6-979f-013937660dd4": "Resistancegirl",
+			"fc466b9c-e699-483e-827e-7704987402f5": "mondayend27",
 
 			"2259d49d-12ca-47bc-b72b-5ac226631c4a": "catizen"
 		}
