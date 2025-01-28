@@ -1,13 +1,13 @@
 {
 	"zoo": {
-		"rebus": "Sparrow",
-		"mystery": "Sloth"
+		"rebus": "Alpaca",
+		"mystery": "Tardigrade"
 	},
 	"hrum": {
-		"quote": "Muhammad Ali"
+		"quote": "Theodore Roosevelt"
 	},
 	"donot": {
-		"combo": [8, 20, 12, 19]
+		"combo": [19, 5, 7, 3]
 	},
 	"onton": {
 		"claimable": {
@@ -23,8 +23,9 @@
 			"5986f59a-f4f2-48cf-ab7a-467216f31c15": "dogs",
 			"d0490273-1e48-44b6-979f-013937660dd4": "Resistancegirl",
 			"fc466b9c-e699-483e-827e-7704987402f5": "mondayend27",
+			"ad940fb4-412c-455c-a652-5c4117abed41": "Svidetelinot",
 
-			"2259d49d-12ca-47bc-b72b-5ac226631c4a": "catizen"
+			"65844d4e-2850-497d-953a-c380167028ac": "roolz"
 		}
 	},
 
@@ -32,6 +33,5 @@
 	"not_pixel": "v6",
 	"paws": "v7",
 	"spr_coin": "v5",
-	"trump_farm": "v1",
 	"hot": "v1"
 }
