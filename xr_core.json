@@ -39,6 +39,8 @@
 	"ton_society": "v7",
 	"not_pixel": "v6",
 	"paws": "v7",
-	"durov_caps": "v1",
+	"durov_caps": "v2",
+	"donot": "v1",
+	"abstract": "v1",
 	"hot": "v1"
 }
