@@ -7,7 +7,7 @@
 		"quote": "Theodore Roosevelt"
 	},
 	"donot": {
-		"combo": [19, 5, 7, 3]
+		"combo": [11, 13, 1, 9]
 	},
 	"onton": {
 		"claimable": {
@@ -29,6 +29,7 @@
 			"d8bc86fa-d115-4a1d-8908-0be72a29431c": "Crypto Analytics Bot",
 			"a7a868d2-bd5c-4a49-9c7b-a8eb79c2e83b": "Hlny",
 			"1888c381-4e35-4a62-a9bb-83938b830cec": "memecraft1",
+			"954d9ad2-fadd-4e1d-87cf-3322b5a41940": "exton",
 
 			"be79f5a8-4514-4da5-8e39-f10169189584": "dedust"
 		}
