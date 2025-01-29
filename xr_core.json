@@ -26,14 +26,17 @@
 			"ad940fb4-412c-455c-a652-5c4117abed41": "Svidetelinot",
 			"e1c12889-52dd-46a7-a256-c3381a386259": "follow_grabs_28",
 			"2fa22328-9589-4ce9-ad82-87dad672bede": "arbuz",
+			"d8bc86fa-d115-4a1d-8908-0be72a29431c": "Crypto Analytics Bot",
+			"a7a868d2-bd5c-4a49-9c7b-a8eb79c2e83b": "Hlny",
+			"1888c381-4e35-4a62-a9bb-83938b830cec": "memecraft1",
 
-			"65844d4e-2850-497d-953a-c380167028ac": "roolz"
+			"be79f5a8-4514-4da5-8e39-f10169189584": "dedust"
 		}
 	},
 
 	"ton_society": "v7",
 	"not_pixel": "v6",
 	"paws": "v7",
-	"spr_coin": "v5",
+	"durov_caps": "v1",
 	"hot": "v1"
 }
