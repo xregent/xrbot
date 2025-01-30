@@ -31,8 +31,10 @@
 			"1888c381-4e35-4a62-a9bb-83938b830cec": "memecraft1",
 			"954d9ad2-fadd-4e1d-87cf-3322b5a41940": "exton",
 			"94e7f5a4-1284-4dde-b2ed-0de18a5dbab5": "dubaibogdan1999",
+			"a041d036-bc35-48ac-8542-ff90a2e0cfce": "svidetelinot",
+			"5fc031b7-54ab-46c8-83f5-6e76c47a6dc0": "booster",
 
-			"be79f5a8-4514-4da5-8e39-f10169189584": "dedust"
+			"9b3c34c1-746b-4263-a0f9-a13d678ba31e": "scaredcat"
 		}
 	},
 
@@ -42,5 +44,6 @@
 	"durov_caps": "v2",
 	"donot": "v1",
 	"abstract": "v1",
+	"roko": "v1",
 	"hot": "v1"
 }
