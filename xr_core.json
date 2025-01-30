@@ -34,6 +34,8 @@
 			"a041d036-bc35-48ac-8542-ff90a2e0cfce": "svidetelinot",
 			"5fc031b7-54ab-46c8-83f5-6e76c47a6dc0": "booster",
 			"c6dfa298-d348-42ec-986d-abd934ccb0e4": "scroogers",
+			"12d1ec2b-e9d9-40bf-9f04-86516087e461": "ctng",
+			"b8b1789e-ea08-469e-b8af-f7ceeba6b842": "Cryptasino777xOnton",
 
 			"9b3c34c1-746b-4263-a0f9-a13d678ba31e": "scaredcat"
 		}
@@ -41,10 +43,10 @@
 
 	"ton_society": "v7",
 	"not_pixel": "v6",
-	"paws": "v8",
-	"durov_caps": "v2",
-	"donot": "v2",
-	"abstract": "v2",
-	"roko": "v2",
+	"paws": "v9",
+	"durov_caps": "v3",
+	"donot": "v3",
+	"roko": "v3",
+	"subscribe": "v1",
 	"hot": "v1"
 }
