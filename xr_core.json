@@ -1,13 +1,9 @@
 {
-	"zoo": {
-		"rebus": "Walrus",
-		"mystery": "Sailfish"
-	},
 	"hrum": {
-		"quote": "Confucius"
+		"quote": "William Faulkner"
 	},
 	"donot": {
-		"combo": [20, 17, 14, 11]
+		"combo": [10, 3, 8, 17]
 	},
 	"onton": {
 		"claimable": {
@@ -36,17 +32,17 @@
 			"c6dfa298-d348-42ec-986d-abd934ccb0e4": "scroogers",
 			"12d1ec2b-e9d9-40bf-9f04-86516087e461": "ctng",
 			"b8b1789e-ea08-469e-b8af-f7ceeba6b842": "Cryptasino777xOnton",
+			"c63cb3b4-5e2d-4281-8a04-aeb50cd4fca5": "vetal25",
+			"5d55bf2a-0f8b-4710-a7f8-97f6b5856b77": "teleportishuge",
 
-			"9b3c34c1-746b-4263-a0f9-a13d678ba31e": "scaredcat"
+			"644a5e9b-e78c-44a7-b4d7-82b9e2d410a4": "resistancecat"
 		}
 	},
 
 	"ton_society": "v7",
-	"not_pixel": "v6",
 	"paws": "v10",
-	"durov_caps": "v4",
-	"donot": "v4",
-	"roko": "v4",
+	"durov_caps": "v5",
+	"donot": "v5",
 	"subscribe": "v1",
 	"hot": "v1"
 }
