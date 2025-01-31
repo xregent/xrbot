@@ -1,7 +1,7 @@
 {
 	"zoo": {
-		"rebus": "Wombat",
-		"mystery": "Dik-Dik"
+		"rebus": "Walrus",
+		"mystery": "Sailfish"
 	},
 	"hrum": {
 		"quote": "Confucius"
@@ -43,10 +43,10 @@
 
 	"ton_society": "v7",
 	"not_pixel": "v6",
-	"paws": "v9",
-	"durov_caps": "v3",
-	"donot": "v3",
-	"roko": "v3",
+	"paws": "v10",
+	"durov_caps": "v4",
+	"donot": "v4",
+	"roko": "v4",
 	"subscribe": "v1",
 	"hot": "v1"
 }
