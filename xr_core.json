@@ -1,9 +1,9 @@
 {
 	"hrum": {
-		"quote": "William Faulkner"
+		"quote": "Franklin D. Roosevelt"
 	},
 	"donot": {
-		"combo": [1, 11, 4, 2]
+		"combo": [13, 16, 18, 6]
 	},
 	"onton": {
 		"claimable": {
@@ -36,8 +36,10 @@
 			"5d55bf2a-0f8b-4710-a7f8-97f6b5856b77": "teleportishuge",
 			"57515b9a-dc7a-41bf-8900-e486e914364f": "support",
 			"3253bc25-e810-4433-847c-418cf45605b9": "tonsecretshop",
+			"81c1c315-b490-4fd0-9439-7755457dfae0": "beseda3",
+			"5cd7f19e-7f0e-4c3d-93a5-02742d46e840": "svidetelinot",
 
-			"644a5e9b-e78c-44a7-b4d7-82b9e2d410a4": "resistancecat"
+			"42e96e36-53e5-4c43-8b0e-83267686915f": "tonfish"
 		}
 	},
 
@@ -45,5 +47,6 @@
 	"paws": "v10",
 	"durov_caps": "v5",
 	"donot": "v5",
+	"aic_roll": "v1",
 	"hot": "v1"
 }
