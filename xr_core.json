@@ -38,15 +38,18 @@
 			"3253bc25-e810-4433-847c-418cf45605b9": "tonsecretshop",
 			"81c1c315-b490-4fd0-9439-7755457dfae0": "beseda3",
 			"5cd7f19e-7f0e-4c3d-93a5-02742d46e840": "svidetelinot",
+			"47029a78-125c-4e1d-8119-242b03055fd1": "followdragons_2022",
+			"d64c2687-2512-4643-a228-44138c8cb5df": "replyguys",
+			"fd528534-65e9-4c17-9197-62e200d9275c": "Developers",
 
-			"42e96e36-53e5-4c43-8b0e-83267686915f": "tonfish"
+			"d47e0937-8d8b-4a3a-a316-47c1dabc9897": "utya"
 		}
 	},
 
 	"ton_society": "v7",
 	"paws": "v10",
-	"durov_caps": "v5",
-	"donot": "v5",
-	"aic_roll": "v1",
+	"durov_caps": "v6",
+	"donot": "v6",
+	"aic_roll": "v2",
 	"hot": "v1"
 }
