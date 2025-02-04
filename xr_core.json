@@ -1,6 +1,6 @@
 {
 	"hrum": {
-		"quote": "Franklin D. Roosevelt"
+		"quote": "Japanese proverb"
 	},
 	"donot": {
 		"combo": [2, 1, 12, 10]
@@ -41,15 +41,17 @@
 			"47029a78-125c-4e1d-8119-242b03055fd1": "followdragons_2022",
 			"d64c2687-2512-4643-a228-44138c8cb5df": "replyguys",
 			"fd528534-65e9-4c17-9197-62e200d9275c": "Developers",
+			"b39a652f-7293-4550-b331-4934393b80b5": "cryptofoxlab",
+			"f38f43d5-65e3-402b-8582-15cb1937bab3": "exton",
 
-			"d47e0937-8d8b-4a3a-a316-47c1dabc9897": "utya"
+			"5e29c1b2-d7a3-4f28-b576-55dffec15905": "theducktony"
 		}
 	},
 
 	"ton_society": "v7",
 	"paws": "v10",
 	"durov_caps": "v8",
-	"donot": "v6",
-	"aic_roll": "v2",
+	"donot": "v7",
+	"aic_roll": "v3",
 	"hot": "v1"
 }
