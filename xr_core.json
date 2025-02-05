@@ -1,9 +1,9 @@
 {
 	"hrum": {
-		"quote": "Japanese proverb"
+		"quote": "Estee Lauder"
 	},
 	"donot": {
-		"combo": [14, 7, 5, 16]
+		"combo": [3, 13, 19, 18]
 	},
 	"onton": {
 		"claimable": {
@@ -43,8 +43,10 @@
 			"fd528534-65e9-4c17-9197-62e200d9275c": "Developers",
 			"b39a652f-7293-4550-b331-4934393b80b5": "cryptofoxlab",
 			"f38f43d5-65e3-402b-8582-15cb1937bab3": "exton",
+			"174c186d-d263-4e2b-ac1e-db38502d45f8": "CapsGamePoznan",
+			"5a029c8b-f765-40fe-bf3a-daa9f6657cb7": "exton",
 
-			"5e29c1b2-d7a3-4f28-b576-55dffec15905": "theducktony"
+			"e0b4ab68-3848-4d28-be28-7c92e6af0f4b": "Notcoin"
 		}
 	},
 
