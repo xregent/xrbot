@@ -45,15 +45,17 @@
 			"f38f43d5-65e3-402b-8582-15cb1937bab3": "exton",
 			"174c186d-d263-4e2b-ac1e-db38502d45f8": "CapsGamePoznan",
 			"5a029c8b-f765-40fe-bf3a-daa9f6657cb7": "exton",
+			"9e52da9f-8f4a-40be-97fc-cea046dbc0cb": "cashflow2025",
+			"f83e40c8-5734-44b0-a6ec-9c9f21a9bb6e": "BUYSPSBANK",
 
-			"646447cc-b2b3-466c-84f9-17f53dbf54e6": "duroveswall"
+			"611651b6-b4ee-4fef-9861-2fa848a7510e": "resistancedog"
 		}
 	},
 
 	"ton_society": "v7",
 	"paws": "v10",
-	"donot": "v9",
+	"donot": "v10",
 	"dogshouse": "v2",
-	"aic_roll": "v5",
+	"aic_roll": "v6",
 	"hot": "v1"
 }
