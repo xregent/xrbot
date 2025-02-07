@@ -1,9 +1,9 @@
 {
 	"hrum": {
-		"quote": "Walt Whitman"
+		"quote": "Lewis"
 	},
 	"donot": {
-		"combo": [13, 19, 12, 2]
+		"combo": [4, 6, 8, 9]
 	},
 	"onton": {
 		"claimable": {
@@ -47,6 +47,8 @@
 			"5a029c8b-f765-40fe-bf3a-daa9f6657cb7": "exton",
 			"9e52da9f-8f4a-40be-97fc-cea046dbc0cb": "cashflow2025",
 			"f83e40c8-5734-44b0-a6ec-9c9f21a9bb6e": "BUYSPSBANK",
+			"77e1429e-d22c-49ce-8b98-2a92aa7914f8": "lovespsbank",
+			"7102ffe4-d334-4c0a-8ea8-750e2e884ae6": "Mprofyseed&deed",
 
 			"611651b6-b4ee-4fef-9861-2fa848a7510e": "resistancedog"
 		}
