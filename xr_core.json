@@ -1,9 +1,9 @@
 {
 	"hrum": {
-		"quote": "Lao Tzu"
+		"quote": "Dale Carnegie"
 	},
 	"donot": {
-		"combo": [6, 20, 10, 12]
+		"combo": [17, 5, 4, 16]
 	},
 	"onton": {
 		"claimable": {
@@ -58,13 +58,15 @@
 			"9d2b1f60-f252-4813-9608-152aa15e160e": "bbbatmas",
 			"5960d365-12c2-47a7-aca5-fb3b09906233": "telegcamp 777",
 			"6c039b72-cce9-4be8-9329-44bae297a8cc": "1202",
+			"dfacb8d7-4bed-43ee-b618-d4b85065a98e": "tonthailand",
 
-			"17d0fffc-caae-4d45-9683-037964ffeeca": "layerzero"
+			"f2cd6af0-9a70-470e-9e99-a72499d1eb16": "plushpepe"
 		}
 	},
 
 	"ton_society": "v7",
 	"paws": "v10",
+	"donot": "v10",
 	"dogshouse": "v2",
 	"aic_roll": "v6",
 	"hot": "v1"
