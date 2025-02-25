@@ -3,12 +3,12 @@
 		"quote": "Frank Sinatra"
 	},
 	"donot": {
-		"combo": [2, 5, 6, 20]
+		"combo": [12, 10, 19, 3]
 	},
 
 
 
-	"aic_roll": "v7",
+	"aic_roll": "v8",
 
 
 
